@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Sangjun's%20Page&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDDC1,100:FFC3A0&height=200&section=header&text=Welcome%20to%20Sangjun's%20Page&fontSize=40" />
+
 
