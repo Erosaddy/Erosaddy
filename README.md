@@ -15,12 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Welcome%20to%20Sangjun's%20Page&fontSize=40" />
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Erosaddy's%20Github&fontSize=40" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Han+Sans&size=40&pause=1000&color=F7598A&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Erosaddy%EC%9D%98+%ED%94%84%EB%A1%9C%ED%95%84" alt="Typing SVG" /></a>
+<p>백엔드 개발자 이상준입니다.</p>
+<p>Email: zxz7648@gmail.com</p>
+
+<p>사용 기술</p>
+
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=Java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Java&logoColor=white)
+
+<p>사용 빈도</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erosaddy)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erosaddy&hide=contribs,prs&show_icons=true&theme=테마)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer&fontSize=40" />
+
+</div>
