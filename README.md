@@ -8,7 +8,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 </div>
 
-- 🔭 작업 중인 프로젝트 [PlantTycoon](https://github.com/Erosaddy/PlantTycoon)
+- 🔭 최근 작업한 프로젝트 [PlantTycoon](https://github.com/Erosaddy/PlantTycoon/tree/Erosaddy_Portfoilio)
 
 - 🌱 배우고 있는 기술 **Spring Boot, Spring Security**
 
