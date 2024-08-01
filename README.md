@@ -22,8 +22,4 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erosaddy)](https://github.com/anuraghazra/github-readme-stats)
 
-<h4>Github 사용 빈도</h4>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erosaddy&" alt="erosaddy" /></p>
-
 </div>
