@@ -4,13 +4,18 @@
 <h4 align="center">사용 기술</h4>
 <div align="center">
   
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white) 
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F.svg?&style=for-the-badge&logo=Thymeleaf&logoColor=white)
+
+
 </div>
 
 - 🔭 최근 작업한 프로젝트 [PlantTycoon](https://github.com/Erosaddy/PlantTycoon/tree/Erosaddy_Portfoilio)
 
-- 🌱 배우고 있는 기술 **Spring Boot, Spring Security**
+- 🌱 배우고 있는 기술 **Spring Security, JPA(Hibernate)**
 
 - 📫 연락처 **zxz7648@gmail.com**
 
