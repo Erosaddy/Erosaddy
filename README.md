@@ -13,13 +13,13 @@
 
 </div>
 
-- 🔭 최근 작업한 프로젝트 [PlantTycoon](https://github.com/Erosaddy/PlantTycoon/tree/Erosaddy_Portfoilio)
+- 🔭 최근 작업한 프로젝트 [PlantTycoon](https://github.com/Erosaddy/PlantTycoon)
 
 - 🌱 배우고 있는 기술 **Spring Security, JPA(Hibernate)**
 
-- 📫 연락처 **zxz7648@gmail.com**
+- 📫 연락처 **email: zxz7648@gmail.com, tel: 010-9919-5568**
 
-- 📄 이력서 [https://career.programmers.co.kr/pr/zxz7648_2939](https://career.programmers.co.kr/pr/zxz7648_2939)
+- 📄 [이력서](https://career.programmers.co.kr/pr/zxz7648_2939)
 
 <hr>
 
