@@ -13,7 +13,7 @@
 
 </div>
 
-- 🔭 최근 작업한 프로젝트 [PlantTycoon](https://github.com/Erosaddy/PlantTycoon)
+- 🔭 최근 작업한 프로젝트 Italian Brainrot Poll https://pickguide.org
 
 - 🌱 배우고 있는 기술 **Spring Security, JPA(Hibernate)**
 
